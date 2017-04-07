@@ -1,0 +1,1 @@
+# Create Qualys search list from iSight Partners vulnerability report.
